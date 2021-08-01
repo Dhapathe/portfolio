@@ -1,2 +1,2 @@
 # portfolio
-netflic-clone-website
+netflix-clone-website
